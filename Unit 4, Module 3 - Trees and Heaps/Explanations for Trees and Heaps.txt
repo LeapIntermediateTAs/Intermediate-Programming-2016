@@ -1,0 +1,3 @@
+EXPLANATION OF BINARY TREES: http://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html
+
+EXPLANATION OF HEAPS: http://www.cs.cmu.edu/~adamchik/15-121/lectures/Binary%20Heaps/heaps.html
